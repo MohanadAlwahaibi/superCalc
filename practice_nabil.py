@@ -12,3 +12,6 @@ elif operation == "-":
 elif operation == "*":
     result = num_1 * num_2
     print(result)
+elif operation == "%":
+    result = num_1 % num_2
+    print(result)
